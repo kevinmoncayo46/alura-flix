@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 30px;
+    background: #262626;
+    border-bottom: 4px solid #2271D1;
+    box-shadow: 0px 5px 29px rgba(34, 113, 209, 0.7);
+
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+.containerButtons{
+    display: flex;
+    gap: 10px;
+}

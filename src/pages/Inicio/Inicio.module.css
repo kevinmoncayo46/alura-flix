@@ -1,0 +1,31 @@
+.section {
+    margin-bottom: 30px;
+}
+
+.categoriaTitulo {
+    color: white;
+    padding: 20px 0;
+    margin: 0 0 20px;
+    border-radius: 5px 5px 0 0;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.contTitle{
+    display: flex;
+    justify-content: left;
+    margin: 20px 70px;
+}
+
+:global(.slick-slide) {
+    display: flex;
+    justify-content: center;
+    /* Aquí puedes agregar más estilos según sea necesario */
+    padding: 20px;  /* Ejemplo de estilo adicional */
+    /* border: 10px solid red; */
+}

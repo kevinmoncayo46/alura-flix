@@ -1,0 +1,77 @@
+{
+    "categorias": [
+        {
+            "id": "front end",
+            "nombre": "Front End",
+            "color": "#007bff"
+        },
+        {
+            "id": "back end",
+            "nombre": "Back End",
+            "color": "#28a745"
+        },
+        {
+            "id": "innovación y gestión",
+            "nombre": "Innovación y Gestión",
+            "color": "#ffc107"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "foto" : "https://i.ytimg.com/vi/R9uaBxgCkyA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvfL19Yv6wW-CbVF1sibjUtE6gMg",
+            "url": "https://www.youtube.com/embed/R9uaBxgCkyA",
+            "categoria": "front end"
+        },
+        {
+            "id": 2,
+            "foto" : "https://i.ytimg.com/vi/rpvrLaBQwgg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoKpoRlVQCz_RrJKrwuA9onAd7Rw",
+            "url": "https://www.youtube.com/embed/rpvrLaBQwgg",
+            "categoria": "front end"
+        },
+        {
+            "id": 3,
+            "foto" : "https://i.ytimg.com/vi/UuAX5azcvDQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrCt-PBwcf6kaY9dwPI0aJ78jXxQ",
+            "url": "https://www.youtube.com/embed/UuAX5azcvDQ",
+            "categoria": "front end"
+        },
+        {
+            "id": 4,
+            "foto" : "https://i.ytimg.com/vi/b71kWley8-o/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICYoLzAP&rs=AOn4CLCvNgRr8MEdjyYPFOlZZmtyYxoOFA",
+            "url": "https://www.youtube.com/embed/b71kWley8-o",
+            "categoria": "back end"
+        },
+        {
+            "id": 5,
+            "foto" : "https://i.ytimg.com/an_webp/jvI2cJ84qhE/mqdefault_6s.webp?du=3000&sqp=CMqm8bMG&rs=AOn4CLCiRLvjIluNjKv4In_5Ry7UKi7g4w",
+            "url": "https://www.youtube.com/embed/jvI2cJ84qhE",
+            "categoria": "back end"
+        },
+        {
+            "id": 6,
+            "foto" : "https://i.ytimg.com/vi/Z024LSCMqFk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3xjx2-sGxZ00NSrSkEswD_8mPSA",
+            "url": "https://www.youtube.com/embed/Z024LSCMqFk",
+            "categoria": "back end"
+        },
+        {
+            "id": 7,
+            "foto" : "https://i.ytimg.com/vi/vhwspfvI52k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxc_0rcRKCUTqYZXq2YUcjczMJNg",
+            "url": "https://www.youtube.com/embed/vhwspfvI52k",
+            "categoria": "innovación y gestión"
+        },
+        {
+            "id": 8,
+            "foto" : "https://i.ytimg.com/vi/zEAD3Uq-C0g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmFklwvXyGhKA7HpTyz4PhDSJfCw",
+            "url": "https://www.youtube.com/embed/zEAD3Uq-C0g",
+            "categoria": "innovación y gestión"
+        },
+        {
+            "id": 9,
+            "foto" : "https://i.ytimg.com/vi/kIvnVfnmDyE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlh-Eoy11cjQOCkD3vXatE0auOew",
+            "url": "https://www.youtube.com/embed/kIvnVfnmDyE",
+            "categoria": "innovación y gestión"
+        }
+    ]
+}
+
+
